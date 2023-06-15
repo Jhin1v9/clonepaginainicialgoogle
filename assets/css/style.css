@@ -68,7 +68,7 @@ svg{
 }
 .content-right{
 		text-align: center;
-
+		margin-right:12px;
 		line-height: 24px;
 		flex: 1;
 		justify-content: flex-end;
